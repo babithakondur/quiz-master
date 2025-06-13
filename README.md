@@ -19,5 +19,5 @@ Quiz Master is a full-featured online quiz platform designed to streamline the p
 - **Backend**: (Connects to your API - mention Express.js or any backend used)
 - **Version Control**: Git + GitHub
 
-## 📁 Folder Structure (Frontend)
+
 
