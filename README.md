@@ -1,5 +1,4 @@
 # 🎓 Quiz Master
-
 Quiz Master is a full-featured online quiz platform designed to streamline the process of creating, managing, and attempting quizzes. It supports role-based access for **Admins**, **Teachers**, and **Students**, providing a robust ecosystem for educational assessment.
 
 ## 🚀 Features
